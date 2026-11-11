@@ -1,0 +1,12 @@
+{
+  "run_at_startup": true,
+  "minimize_to_tray": true,
+  "auto_detect": true,
+  "device_address": "",
+  "device_name_pattern": "auto",
+  "refresh_interval": 60,
+  "theme": "dark",
+  "diagnostic_mode": false,
+  "show_window_on_connect": false,
+  "disconnect_grace": 6
+}

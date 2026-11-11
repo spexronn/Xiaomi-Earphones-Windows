@@ -1,0 +1,31 @@
+# Python & test cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# PyInstaller build artifacts & binaries
+dist/
+build/work/
+build/build_log.txt
+*.spec
+*.exe
+*.lnk
+
+# Runtime logs & local device settings
+logs/
+*.log
+config/settings.json
+config/session_history.json
+config/*.tmp
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
